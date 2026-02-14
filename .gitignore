@@ -1,0 +1,26 @@
+# Cookies et tokens sensibles
+cookies.json
+cookies-http.json
+
+# Variables d'environnement
+.env
+
+# Données récupérées
+loans.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
